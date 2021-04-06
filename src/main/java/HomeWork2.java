@@ -44,6 +44,6 @@ public class HomeWork2 {
         System.out.println(LeapYear(2009));
         PrintStringNTimes("yohoho", 5);
         System.out.println(NegativeCheck(0));
-        IntSign(5);
+        IntSign(0);
     }
 }
