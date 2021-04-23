@@ -2,7 +2,6 @@ package HW5;
 
 public class HW5 {
 
-
     public static void main(String[] args) {
         Worker[] newArray = new Worker[5];
         newArray[0] = new Worker("Ivanov Ivan", "Seller", "ivan@gmail.com", 856457585, 70000, 45);

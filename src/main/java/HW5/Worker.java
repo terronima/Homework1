@@ -17,26 +17,6 @@ public class Worker {
         this.age = age;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getOccupancy() {
-        return occupancy;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public int getCellPhone() {
-        return cellPhone;
-    }
-
-    public int getSalary() {
-        return salary;
-    }
-
     public int getAge() {
         return age;
     }
